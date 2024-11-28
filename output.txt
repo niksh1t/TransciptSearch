@@ -1,0 +1,48 @@
+If you follow any JavaScript publication or  newsletter you probably saw these disclaimers  
+referencing Oracle's trademark ownership to  avoid legal complications. If you're like  
+me you’ll probably ask yourself why  a company known for their databases,  
+and not web development is involved in this.  Well, the explanation is kind of mind blowing.
+In 1995, the web was still in its infancy, and  developers were experimenting with new ways to  
+make websites more dynamic. Netscape, the company  behind the dominant web browser of the era,  
+decided to create a scripting language  that could make websites interactive.
+They called it Mocha at first, and then  LiveScript, but what’s more interesting,  
+is that Brendan Eich was asked to  create this language in only 10 days,  
+in an attempt from Netscape to gain an  edge over Microsoft in their browser wars.  
+At the same time, Sun Microsystems was generating  buzz with their revolutionary programming  
+language. Java's promise was ambitious.  Write once, run anywhere. Developers were  
+intrigued by the idea of a language that  could seamlessly work across platforms.
+So Netscape saw an opportunity to  capitalize on Java's popularity.  
+They partnered with Sun Microsystems and  rebranded LiveScript as JavaScript, despite  
+the two languages being entirely different. This naming decision wasn’t about technology.  
+It was a marketing attempt to ride  the wave of Java’s growing fame.
+Thanks to this publicity stunt, developers  started paying attention, even though,  
+under the hood, JavaScript had little to do with  Java beyond some superficial syntax similarities.
+Netscape's gamble worked, and JavaScript quickly  became a key part of the web’s evolution.
+Fast forward to 2009, and Sun Microsystems,  the company that initially trademarked the name  
+'JavaScript,' was acquired by Oracle. Oracle,  a company best known for its databases and  
+enterprise software, inherited all of Sun's  assets, including the JavaScript trademark.
+But despite their trademark ownership, Oracle  has no role in JavaScript's evolution or  
+standardization. That responsibility belongs to  ECMA International, which oversees the ECMAScript  
+standard. However, because the term JavaScript is  trademarked, many official documents, conferences,  
+and publications use ECMAScript  instead to avoid legal issues.
+As a consequence, Oracle's ownership  of the JavaScript trademark has  
+raised eyebrows in the developer  community over the years. While  
+it hasn’t directly impacted day-to-day  coding, it has created some confusion.
+This situation has frustrated many  developers who feel the trademark serves  
+no real purpose and adds unnecessary  complexity to JavaScript’s identity.
+But things took a more serious turn  in 2024 when prominent figures in  
+the JavaScript community decided enough was  enough. Ryan Dahl, the creator of Node.js,  
+and Brendan Eich, the creator of JavaScript  itself, alongside other influential developers,  
+published an open letter urging  Oracle to relinquish the trademark.
+The first paragraph tells you  everything you need to know. 
+“You have long ago abandoned the JavaScript  trademark, and it is causing widespread,  
+unwarranted confusion and disruption.”
+Then, in November 2024 Deno formally filed  a petition to cancel Oracle’s trademark.
+If successful, conferences could reclaim titles  like “JavaScript Conference” instead of settling  
+for “JSConf.” The language’s specification  could finally drop the cumbersome “ECMAScript”  
+in favor of a straightforward“JavaScript  Specification”, and communities like “Rust  
+for JavaScript Developers” would no longer  fear legal threats over their use of the term.
+So here we are - we’ve moved from browser wars,  
+to framework wars and now to trademark wars.  The web is, indeed, a fascinating place.
+If you are interested in more deep dives  into the web dev space you can check  
+some of the other videos on my channel.  Until next time, thank you for watching.
